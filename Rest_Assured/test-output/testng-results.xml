@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-03-16T13:07:31 IST" name="Default suite" finished-at="2020-03-16T13:07:32 IST" duration-ms="1024">
+  <suite started-at="2020-03-22T23:48:50 IST" name="Default suite" finished-at="2020-03-22T23:48:51 IST" duration-ms="1288">
     <groups>
     </groups>
-    <test started-at="2020-03-16T13:07:31 IST" name="Default test" finished-at="2020-03-16T13:07:32 IST" duration-ms="1024">
-      <class name="Base.PUT_Call">
-        <test-method signature="Update_A_Record()[pri:0, instance:Base.PUT_Call@55a561cf]" started-at="2020-03-16T13:07:31 IST" name="Update_A_Record" finished-at="2020-03-16T13:07:32 IST" duration-ms="1001" status="PASS">
+    <test started-at="2020-03-22T23:48:50 IST" name="Default test" finished-at="2020-03-22T23:48:51 IST" duration-ms="1288">
+      <class name="Base.Extrect_Specific_data_from_Response">
+        <test-method signature="Extrect_From_Responde()[pri:0, instance:Base.Extrect_Specific_data_from_Response@55a561cf]" started-at="2020-03-22T23:48:50 IST" name="Extrect_From_Responde" finished-at="2020-03-22T23:48:51 IST" duration-ms="1268" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Update_A_Record -->
-      </class> <!-- Base.PUT_Call -->
+        </test-method> <!-- Extrect_From_Responde -->
+      </class> <!-- Base.Extrect_Specific_data_from_Response -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Base.Json_response_validation">
+      <class name="Base.Extrect_Specific_data_from_Response">
         <methods>
-          <include name="Validate_Json_Response"/>
-          <include name="Setup"/>
+          <include name="Extrect_From_Responde"/>
         </methods>
-      </class> <!-- Base.Json_response_validation -->
+      </class> <!-- Base.Extrect_Specific_data_from_Response -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
